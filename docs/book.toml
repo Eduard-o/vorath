@@ -4,6 +4,3 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Vorath Docs"
-
-[output.html]
-site-url = "/docs/"
