@@ -1,0 +1,6 @@
+[book]
+authors = ["Eduard-o"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Vorath Docs"
